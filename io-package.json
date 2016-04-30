@@ -1,0 +1,35 @@
+{
+    "common": {
+        "name":         "icons-icons8",
+        "version":      "0.0.1",
+        "title":        "Icons from Icons8.com",
+        "desc":         {
+            "en": "Icon set for visualisation for home automation from Icons8.com.",
+            "de": "Bildersatz für die Visualisierung von Hausautomatisierung von Icons8.com",
+            "ru": "Набор иконок для визуализации дома от Icons8.com"
+        },
+        "authors": [
+            "bluefox <dogafox@gmail.com>"
+        ],
+        "platform":     "javascript/Node.js",
+        "icon":         "icons8.png",
+        "mode":         "none",
+        "keywords":     ["icons", "icons8"],
+        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-icons8/master/admin/icons8.png",
+        "readme":       "https://github.com/ioBroker/ioBroker.icons-icons8/blob/master/README.md",
+        "loglevel":     "info",
+        "dependencies": ["web"],
+        "enabled":      true,
+        "onlyWWW":      true,
+        "singleton":    true,
+		"type":         "vis",
+        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-icons8/index.html",
+        "license":      "CC BY-ND 3.0",
+        "noConfig":     true
+    },
+    "native": {
+
+    },
+    "objects": [
+    ]
+}
