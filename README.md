@@ -9,7 +9,7 @@ ioBroker.icons-icons
 
 Icon set for ioBroker.vis and ioBroker.mobile from [icons8](https://icons8.com)
 
-(Here)[ICONLIST.md] you can check the icons. Warning: the load file could be very big!
+[Here](ICONLIST.md) you can check the icons. Warning: the load file could be very big!
 
 It is about 4 300 icons in this set.
 ![Example](img/example.png)
