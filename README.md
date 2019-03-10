@@ -2,7 +2,7 @@
 ioBroker.icons-icons
 =================
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.icons-icons8.svg)](https://www.npmjs.com/package/iobroker.icons-icons8)
+![Number of Installations](http://iobroker.live/badges/icons-icons8-installed.svg) ![Number of Installations](http://iobroker.live/badges/icons-icons8-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.icons-icons8.svg)](https://www.npmjs.com/package/iobroker.icons-icons8)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.icons-icons8.svg)](https://www.npmjs.com/package/iobroker.icons-icons8)
 
 [![NPM](https://nodei.co/npm/iobroker.icons-icons8.png?downloads=true)](https://nodei.co/npm/iobroker.icons-icons8/)
